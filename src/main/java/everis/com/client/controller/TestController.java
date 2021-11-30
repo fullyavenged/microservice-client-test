@@ -1,4 +1,4 @@
-package everis.com.controller;
+package everis.com.client.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
